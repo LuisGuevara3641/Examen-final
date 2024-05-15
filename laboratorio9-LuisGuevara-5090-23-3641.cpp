@@ -82,7 +82,7 @@ int main()
 			break;
 		}
         system("cls");
-	} while (opc != 6);
+	} while (opc != 5);
 
     cout << "Fuera del programa";
     return 0;
